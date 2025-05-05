@@ -8,56 +8,64 @@ const athletes = {
     nickname: "The Warrior Queen",
     traits: ["Fierce determination", "Mental toughness", "Graceful power", "Unapologetic confidence"],
     quote: "You have to believe in yourself when no one else does.",
-    image: "https://imageio.forbes.com/specials-images/imageserve/62ff904c40fd9f429dce7c7a/2014-Brisbane-International---Day-7/960x0.jpg?format=jpg"
+    image: "https://imageio.forbes.com/specials-images/imageserve/62ff904c40fd9f429dce7c7a/2014-Brisbane-International---Day-7/960x0.jpg?format=jpg",
+    whyMessage: "Why you got her: You're relentless, composed under pressure, and always pushing boundaries."
   },
   bolt: {
     name: "Usain Bolt",
     nickname: "The Lightning Bolt",
     traits: ["Explosive speed", "Showmanship", "Relaxed confidence", "Natural talent"],
     quote: "I don't think limits.",
-    image: "https://i.guim.co.uk/img/static/sys-images/Sport/Pix/columnists/2012/8/6/1344236039463/Usain-Bolt-001.jpg?width=620&dpr=2&s=none&crop=none"
+    image: "https://i.guim.co.uk/img/static/sys-images/Sport/Pix/columnists/2012/8/6/1344236039463/Usain-Bolt-001.jpg?width=620&dpr=2&s=none&crop=none",
+    whyMessage: "Why you got him: You bring energy to every room and love to shine when the spotlight hits."
   },
   lasso: {
     name: "Ted Lasso",
     nickname: "The Eternal Optimist",
     traits: ["Unwavering positivity", "Emotional intelligence", "Team-building", "Growth mindset"],
     quote: "Be curious, not judgmental.",
-    image: "https://www.cnet.com/a/img/resize/79488c177e6466fdff9f1d493a092deb8aba69f0/hub/2023/02/14/cab34e99-89c1-4e3d-be19-7ba607fd374e/apple-tv-ted-lasso-key-art-16-9.png?auto=webp&fit=crop&height=675&width=1200"
+    image: "https://www.cnet.com/a/img/resize/79488c177e6466fdff9f1d493a092deb8aba69f0/hub/2023/02/14/cab34e99-89c1-4e3d-be19-7ba607fd374e/apple-tv-ted-lasso-key-art-16-9.png?auto=webp&fit=crop&height=675&width=1200",
+    whyMessage: "Why you got him: You're the glue that holds the team together. Joy is your superpower."
   },
   jordan: {
     name: "Michael Jordan",
     nickname: "The Alpha Competitor",
     traits: ["Relentless work ethic", "Competitive fire", "Strong Determination", "Disciplined"],
     quote: "I can accept failure, but I can't accept not trying.",
-    image: "https://media.dunkest.com/2024/11/25181722/cover-sito-dunkest.jpg"
+    image: "https://media.dunkest.com/2024/11/25181722/cover-sito-dunkest.jpg",
+    whyMessage: "Why you got him: You aim high, work hard, and never back down from a challenge."
   },
   simone: {
     name: "Simone Biles",
     nickname: "The Graceful Powerhouse",
     traits: ["Boundary-pushing innovation", "Mental resilience", "Technical precision", "Self-advocacy"],
-    quote: "I'd rather regret the risk that didn't work out than the chances I didn’t take.",
-    image: "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2164046088-66aa19c07e63e.jpg?crop=1xw:0.843644544431946xh;center,top&resize=1200:*"
+    quote: "I'd rather regret the risk that didn't work out than the chances I didn't take.",
+    image: "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2164046088-66aa19c07e63e.jpg?crop=1xw:0.843644544431946xh;center,top&resize=1200:*",
+    whyMessage: "Why you got her: You carry strength with grace and know when to prioritize yourself."
   },
   rodman: {
     name: "Dennis Rodman",
     nickname: "The Wild Card",
     traits: ["Unapologetic individuality", "Specialized excellence", "Relentless energy", "Unpredictability"],
     quote: "I just do what I do. I just go out there and be me.",
-    image: "https://people.com/thmb/w2Krk8DdbYrsdu7WkQmaMZoXYew=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(979x539:981x541):format(webp)/dennis-rodman-1-5cd0f61b2ac34f7793682eabc837877e.jpg"
+    image: "https://people.com/thmb/w2Krk8DdbYrsdu7WkQmaMZoXYew=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(979x539:981x541):format(webp)/dennis-rodman-1-5cd0f61b2ac34f7793682eabc837877e.jpg",
+    whyMessage: "Why you got him: You're unapologetically yourself and make the game unforgettable."
   },
   lin: {
     name: "Jeremy Lin",
     nickname: "The Humble Trailblazer",
     traits: ["Perseverance", "Humility", "Adaptability", "Cultural bridge-building"],
     quote: "I'm not playing for other people; if I start thinking in those terms I would put too much pressure on myself.",
-    image: "https://nbcsports.brightspotcdn.com/dims4/default/07ff97e/2147483647/strip/true/crop/916x515+0+1/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2F20%2F31274943b2e6a3c289519dce186f%2Fgettyimages-1227914503-e1600177487464.jpg"
+    image: "https://nbcsports.brightspotcdn.com/dims4/default/07ff97e/2147483647/strip/true/crop/916x515+0+1/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2F20%2F31274943b2e6a3c289519dce186f%2Fgettyimages-1227914503-e1600177487464.jpg",
+    whyMessage: "Why you got him: You lead with heart, break barriers without needing the spotlight, and keep showing up no matter the odds."
   },
   honda: {
     name: "Keisuke Honda",
     nickname: "The Relentless Innovator",
     traits: ["Versatility", "Global mindset", "Entrepreneurial spirit", "Strategic vision"],
     quote: "Dreams are not what you see in your sleep. Dreams are things which do not let you sleep.",
-    image: "https://content.api.news/v3/images/bin/45aae788eeb0b1455b69e865bbc9ea94?width=768"
+    image: "https://content.api.news/v3/images/bin/45aae788eeb0b1455b69e865bbc9ea94?width=768",
+    whyMessage: "Why you got him: You're always evolving—pushing past limits, reinventing yourself, and never losing sight of your goals."
   }
 };
 
@@ -237,7 +245,7 @@ function App() {
                 {athlete.name} – {athlete.nickname}
               </h1>
               
-              <div className="mb-6">
+              <div className="mb-4">
                 <h3 className="text-lg font-semibold text-brown-light mb-2">Spirit Traits:</h3>
                 <ul className="space-y-1">
                   {athlete.traits.map((trait, index) => (
@@ -249,11 +257,17 @@ function App() {
                 </ul>
               </div>
               
-              <div className="mb-6">
+              <div className="mb-4">
                 <h3 className="text-lg font-semibold text-brown-light mb-2">Quote:</h3>
                 <blockquote className="italic text-brown-light border-l-4 border-teal-custom pl-4">
                   "{athlete.quote}"
                 </blockquote>
+              </div>
+              
+              <div className="mb-6 bg-lime-custom bg-opacity-30 p-4 rounded-lg">
+                <p className="text-brown-light">
+                  {athlete.whyMessage}
+                </p>
               </div>
               
               <p className="text-brown-light font-medium">
