@@ -16,7 +16,7 @@ const athletes = {
     nickname: "The Lightning Bolt",
     traits: ["Explosive speed", "Showmanship", "Relaxed confidence", "Natural talent"],
     quote: "I don't think limits.",
-    image: "https://i.guim.co.uk/img/static/sys-images/Sport/Pix/columnists/2012/8/6/1344236039463/Usain-Bolt-001.jpg?width=620&dpr=2&s=none&crop=none",
+    image: "https://media.assettype.com/thequint/2017-07/448e53ca-991c-40ed-b2ce-c5e8d722227c/Usain-Bolt-Hero-234.jpg",
     whyMessage: "Why you got him: You bring energy to every room and love to shine when the spotlight hits."
   },
   lasso: {
@@ -56,7 +56,7 @@ const athletes = {
     nickname: "The Humble Trailblazer",
     traits: ["Perseverance", "Humility", "Adaptability", "Cultural bridge-building"],
     quote: "I'm not playing for other people; if I start thinking in those terms I would put too much pressure on myself.",
-    image: "https://nbcsports.brightspotcdn.com/dims4/default/07ff97e/2147483647/strip/true/crop/916x515+0+1/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2F20%2F31274943b2e6a3c289519dce186f%2Fgettyimages-1227914503-e1600177487464.jpg",
+    image: "https://media.bleacherreport.com/image/upload/x_23,y_15,w_1764,h_1171,c_crop/w_800,h_533,c_fill/v1694713735/chzt5z8xriuyiueejmz9.jpg",
     whyMessage: "Why you got him: You lead with heart, break barriers without needing the spotlight, and keep showing up no matter the odds."
   },
   honda: {
