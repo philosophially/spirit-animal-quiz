@@ -40,7 +40,7 @@ const athletes = {
     nickname: "The Graceful Powerhouse",
     traits: ["Boundary-pushing innovation", "Mental resilience", "Technical precision", "Self-advocacy"],
     quote: "I'd rather regret the risk that didn't work out than the chances I didn't take.",
-    image: "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2164046088-66aa19c07e63e.jpg?crop=1xw:0.843644544431946xh;center,top&resize=1200:*",
+    image: "https://media.newyorker.com/photos/61095d9d7c6302058c00d0b1/master/w_2240,c_limit/Orbey-BilesBeamFinal.jpg",
     whyMessage: "Why you got her: You carry strength with grace and know when to prioritize yourself."
   },
   rodman: {
